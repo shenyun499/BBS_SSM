@@ -10,7 +10,7 @@
 	<!-- 用锁定版本号，把 版本号全部定义成变量 好管理 properties -->
 	<properties>
 		<!-- spring的版本号，已经包含springmvc -->
-		<spring.version>4.2.4.RELEASE</spring.version>
+		<spring.version>4.2.7.RELEASE</spring.version>
 		<!-- mybatis的版本号 -->
 		<mybatis.version>3.2.8</mybatis.version>
 		<!-- mybatis整合spring的版本号 -->
